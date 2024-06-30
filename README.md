@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzamatSV5
+- 👋 Hi, I’m @DevAza23
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Html,CSS,JavaScript
 - 💞️ I’m looking to collaborate no one
